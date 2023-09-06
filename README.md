@@ -58,4 +58,4 @@ Once you've filled out the title and text, click the "Save" button to save your 
 
 ## Heroku Link
 
-https://dashboard.heroku.com/apps/thawing-garden-76213
+https://thawing-garden-76213-6286bfaad703.herokuapp.com/
